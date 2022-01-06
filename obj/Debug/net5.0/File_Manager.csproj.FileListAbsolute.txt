@@ -1,0 +1,15 @@
+/Users/ruslangaliullin/Projects/File_Manager/bin/Debug/net5.0/File_Manager.deps.json
+/Users/ruslangaliullin/Projects/File_Manager/bin/Debug/net5.0/File_Manager.runtimeconfig.json
+/Users/ruslangaliullin/Projects/File_Manager/bin/Debug/net5.0/File_Manager.runtimeconfig.dev.json
+/Users/ruslangaliullin/Projects/File_Manager/bin/Debug/net5.0/File_Manager.dll
+/Users/ruslangaliullin/Projects/File_Manager/bin/Debug/net5.0/ref/File_Manager.dll
+/Users/ruslangaliullin/Projects/File_Manager/bin/Debug/net5.0/File_Manager.pdb
+/Users/ruslangaliullin/Projects/File_Manager/obj/Debug/net5.0/File_Manager.csproj.AssemblyReference.cache
+/Users/ruslangaliullin/Projects/File_Manager/obj/Debug/net5.0/File_Manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslangaliullin/Projects/File_Manager/obj/Debug/net5.0/File_Manager.AssemblyInfoInputs.cache
+/Users/ruslangaliullin/Projects/File_Manager/obj/Debug/net5.0/File_Manager.AssemblyInfo.cs
+/Users/ruslangaliullin/Projects/File_Manager/obj/Debug/net5.0/File_Manager.csproj.CoreCompileInputs.cache
+/Users/ruslangaliullin/Projects/File_Manager/obj/Debug/net5.0/File_Manager.dll
+/Users/ruslangaliullin/Projects/File_Manager/obj/Debug/net5.0/ref/File_Manager.dll
+/Users/ruslangaliullin/Projects/File_Manager/obj/Debug/net5.0/File_Manager.pdb
+/Users/ruslangaliullin/Projects/File_Manager/obj/Debug/net5.0/File_Manager.genruntimeconfig.cache
